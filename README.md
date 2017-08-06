@@ -25,3 +25,13 @@ For Xcode:
 
 Git Cheat Sheet:
 https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
+
+Terminal commands:
+1. git clone https://github.com/ooulooud/GitTutorial.git
+2. cd GitTutorial
+3. git branch ssh_test     // create a new branch
+4. git checkout ssh_test   // switch to new branch
+5. git status
+6. git add README.md
+7. git commit -m "Added terminal commands"
+8. git push --set-upstream origin ssh_test
