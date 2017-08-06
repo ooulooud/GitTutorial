@@ -43,3 +43,10 @@ From github.com:
 Sync foreign branch:
 1. git fetch
 2. git checkout ssh_update
+
+For C++ project:
+1. Create a repo on github WITHOUT any file including README.md. The repo must be empty.
+2. Create a new Xcode project, and check Create Git repository on My Mac.
+3. Source Control->Config->add remotes
+4. Source Control->Commit
+5. To import a github project: checkout an existing project
