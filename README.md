@@ -35,3 +35,11 @@ Terminal commands:
 6. git add README.md
 7. git commit -m "Added terminal commands"
 8. git push --set-upstream origin ssh_test
+
+From github.com:
+1. Compare and Merge branch
+2. Delete local branch: git branch -d ssh_test
+
+Sync foreign branch:
+1. git fetch
+2. git checkout ssh_update
