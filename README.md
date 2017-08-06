@@ -40,3 +40,6 @@ From github.com:
 1. Compare and Merge branch
 2. Delete local branch: git branch -d ssh_test
 
+Sync foreign branch:
+1. git fetch
+2. git checkout ssh_update
